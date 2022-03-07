@@ -39,4 +39,4 @@ Give credit here.
 
 
 ## Contact
-Created by [@vijaylakhe , @mpalaves]
+Created by [@vlakhe , @mpalaves]
